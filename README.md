@@ -1,2 +1,20 @@
-# JAVAProgramming-LabFileGitHUB
-Java program demonstrating file I/O, Scanner parsing, and grade calculations.
+# Lab: File Read & Grade Calculator
+
+This Java program reads student names and test scores from an input file, computes averages, and outputs the final calculated letter grades.
+
+## How to Run
+
+1. Clone or download this repository.
+2. Open the project in your IDE (e.g., IntelliJ IDEA or Eclipse).
+3. Ensure `grades.txt` is placed in the project root or working directory.
+4. Run the main driver class (`CISC190LabFileRead.java`).
+5. View the formatted grade summary displayed in the console.
+
+## Example Output
+
+Student: Alex
+Average: 88.5
+Grade: B
+
+## Author
+Chaerish Severin
